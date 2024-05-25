@@ -1,5 +1,5 @@
-import React from 'react'
-import Layout from '../../Layout/Layout'
+import React from "react";
+import Layout from "../../Layout/Layout";
 
 function SingUp() {
   return (
@@ -9,4 +9,4 @@ function SingUp() {
   );
 }
 
-export default SingUp
+export default SingUp;

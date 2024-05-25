@@ -1,5 +1,5 @@
-import React from 'react'
-import Layout from '../../Layout/Layout'
+import React from "react";
+import Layout from "../../Layout/Layout";
 function Payment() {
   return (
     <Layout>
@@ -8,4 +8,4 @@ function Payment() {
   );
 }
 
-export default Payment
+export default Payment;
